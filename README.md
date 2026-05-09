@@ -1,3 +1,13 @@
+<img width="1918" height="1022" alt="final canvas" src="https://github.com/user-attachments/assets/d4fd3172-e725-4b19-8111-13a7e25d5729" />
+
+
+
+
+
+
+
+
+
 # Legacy-Audit-Lab
 Project That Involves in sniffing packets through FortiGate in Legacy System.
 
